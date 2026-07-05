@@ -65,22 +65,6 @@ Building scalable web applications, REST APIs, cloud-native solutions, and AI-po
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1sbah&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M1sbah&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
