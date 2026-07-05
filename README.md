@@ -160,7 +160,7 @@ Information Technology
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://linkedin.com/in/misbah-uddin-488914213">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
