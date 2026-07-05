@@ -160,7 +160,7 @@ I enjoy solving backend challenges, designing scalable systems, and writing clea
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M1sbah&theme=tokyonight&no-frame=true&margin-w=10" />
+ <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=M1sbah&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
