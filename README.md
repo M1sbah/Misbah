@@ -149,22 +149,6 @@ I enjoy solving backend challenges, designing scalable systems, and writing clea
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=M1sbah&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
- <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=M1sbah&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎓 Education
 
 **Bachelor of Technology (B.Tech)**  
