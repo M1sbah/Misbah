@@ -30,7 +30,7 @@ I enjoy solving backend challenges, designing scalable systems, and writing clea
 
 ## ✨ Highlights
 
-- 💼 2+ years of professional software development experience
+- 💼 2.5+ years of professional software development experience
 - 🚀 Developed and maintained production-ready Ruby on Rails applications
 - ⚡ Designed scalable RESTful APIs and backend services
 - 🗄️ Experienced with PostgreSQL, Redis, Sidekiq, and Shoryuken
