@@ -152,8 +152,8 @@ I enjoy solving backend challenges, designing scalable systems, and writing clea
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=M1sbah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1sbah&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=M1sbah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1sbah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -161,7 +161,7 @@ I enjoy solving backend challenges, designing scalable systems, and writing clea
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M1sbah&theme=algolia&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=M1sbah&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
